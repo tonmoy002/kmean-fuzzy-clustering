@@ -5,3 +5,4 @@
 - Compared all countries based on average new cases and new deaths using K mean and Fuzzy Clustering.
 - Identified Implications for public health decision-making discussed.
 - Addressed limitations and provided recommendations for future research.- Conducted thesis on COVID-19 data analysis using K-means and Fuzzy Clustering. - Collected data and performed preprocessing including preliminary Covid-19 Data Analysis. - Identified clear patterns and trends in pandemic data. - Performed K mean and Fuzzy clustering on top ten countries. - Compared all countries based on average new cases and new deaths using K mean and Fuzzy Clustering. - Identified Implications for public health decision-making discussed. - Addressed limitations and provided recommendations for future research.
+- GoogleColab link : https://colab.research.google.com/drive/1_JElP2qDv1Pk8JHgofiuI63dseLG5ZIy?usp=sharing
